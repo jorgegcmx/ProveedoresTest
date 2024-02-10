@@ -28,10 +28,6 @@ Este comando tiene como objetivo instalar todas la dependencia del proyecto.
 
 Este comando inicia la  aplicacion :
 
-### `npm start`
-
-Pruedo de para pruebas locaquelas.\
-
 inicia [http://localhost:3000](http://localhost:3000) ve en tu navegador.
 
 
