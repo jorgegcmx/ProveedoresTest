@@ -3,20 +3,20 @@
 
 Requerimientos.
 
--JDK 17
--IDE Intelij
--Maven
+# JDK 17
+# IDE Intelij
+# Maven
 
-## `Clic derecho en la carpeta inicial del proyecyo y RUN`
+## `Clic derecho en la carpeta inicial del proyecto y RUN`
 esto perimte iniciar el servicio en el puerto [http://localhost:8080/ ](http://localhost:8080/)
 
-## `el servicio cuenta con una url para la docuemntacion de los metodos`
+## `el servicio cuenta con una url para la documentación de los metodos`
 
 Ruta de documentacion [http://localhost:8080/swagger-ui/index.html#/ ](http://localhost:8080/swagger-ui/index.html#/)
 
 ## `Mejoras`
 
-El servicio rest implementa la base de datos H2 para la persitencia de Datos en Memoria solo asegurate de que descarge de forma correctar la dependencias de Maven\
+El servicio rest implementa la base de datos H2 para la persitencia de datos en memoria solo asegurate de que descargue de forma correctar las dependencias de Maven.
 
 
 # Iniciar la aplicacion React Front End
